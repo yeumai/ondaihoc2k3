@@ -12,6 +12,7 @@ const CONFIG = {
     btnReply: 'Gửi tặng Mai <3',
     reply: 'Yêu thì yêu mà không yêu thì phải yêu <33333333',
     mess: 'Mai biết mà 🥰. Yêu Mai nhiều nhiều 😘😘',
-    messDesc: 'giờ thì mai là người yêu mình rồi nha💪💪.',
+    messDesc: 'giờ thì mai là người yêu mình rồi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/tienzk3dzz
+    messLink: 'https://www.facebook.com/tienzk3dzz'
+}
