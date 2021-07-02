@@ -2,12 +2,12 @@ const CONFIG = {
     introTitle: 'Maiiii à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao Mai cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Lạc vào tim Tiến lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
     title: 'Phải chăng Tiến đã yêu Mai từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng Tiến đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích Mai <33',
+    btnYes: 'Vẫn cứ là thích Tiến <33',
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao Tiến lại yêu Mai <3',
     btnReply: 'Gửi cho meee <3',
